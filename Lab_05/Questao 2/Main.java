@@ -1,3 +1,7 @@
+
+	/*Italo Cavalcante de Abreu:397135- Questao 1
+	João Vitor Pinheiro Nascimento:388837- Questao 2
+	Jordan Ferreira:384360- Questao 3*/
 class Main{
 	public static void main(String agrvs[]){
 		//expressao sen(3*10) / cos(45)
