@@ -1,6 +1,6 @@
-	/*Italo Cavalcante de Abreu:397135- Questao 1
+	/*Italo Cavalcante de Abreu:397135- Questao 3
 	João Vitor Pinheiro Nascimento:388837- Questao 2
-	Jordan Ferreira:384360- Questao 3*/
+	Jordan Ferreira:384360- Questao 1*/
 class Main{
 	public static void main(String agrvs[]){
 		//expressao (30*10) / (45)   depois troca 45 por -5
